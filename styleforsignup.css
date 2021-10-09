@@ -1,0 +1,58 @@
+
+form{
+  border: 2px solid white;
+  padding : 15px;
+  width: 500px;
+  border-radius : 20px;
+ box-shadow : 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+}
+body{
+  background:#4166c4;
+  color:black;
+}
+#f_name{
+  font-weight:bold;
+  padding : 64px;
+}
+#l_name{
+  font-weight:bold;
+  padding : 65px;
+ 
+}
+#email{
+  font-weight:bold;
+  padding : 71px;
+  margin : 0px 10px 0px -3px ; 
+}
+#dob{
+  font-weight:bold;
+  padding : 43px;
+  margin : 2px 3px 4px 0px ; 
+}
+#gender{
+  font-weight:bold;
+  padding : 79px;
+  margin : 0px 10px 0px -80px ; 
+}
+#pass{
+  font-weight:bold;
+  padding : 40px;
+  margin : 0px 0px 0px 30px ; 
+}
+#con_pass{
+  font-weight:bold;
+  padding : 10px;
+  margin : 0px 0px 0px 60px ; 
+}
+#phone{
+  font-weight:bold;
+  padding : 65px;
+  margin : 0px 0px 0px 5px ; 
+}
+#sub{
+  padding : 5px;
+  border-radius: 5px;
+  border:2px solid white;
+  background-color:#4166c4;
+  color:white;
+}
